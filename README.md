@@ -1,2 +1,2 @@
 ## posts_app (dev)
-to learn react (referenced tutorial from https://velopert.com)
+to learn react (referenced tutorial from https://velopert.com/)
